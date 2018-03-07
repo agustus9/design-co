@@ -7,3 +7,43 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+.container {
+  margin: 1em;
+}
+
+footer {
+  display: flex;
+  
+}
+
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 25px;
+}
+
+.new-content {
+  
+  
+}
+
+.details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 1.5;
+}
+
+.p-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+
